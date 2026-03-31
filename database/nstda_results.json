@@ -1,0 +1,117 @@
+{
+  "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+  "source_urls": [
+    "https://www.nstda.or.th/home/mission/scholarship-page/scholarship-in-nstda/",
+    "https://www.nstda.or.th/home/mission/scholarship-page/scholarship-in-nstda/announce/",
+    "https://www.nstda.or.th/taist_tokyo_tech/",
+    "https://www.nstda.or.th/tgist/",
+    "https://www.nstda.or.th/tgist/scholarship1/",
+    "https://www.nstda.or.th/tgist/scholarship_support/",
+    "https://www.nstda.or.th/home/mission/scholarship-page/tas/",
+    "https://stscholar.nstda.or.th/scholarship2568/",
+    "https://stscholar.nstda.or.th/"
+  ],
+  "scraped_at": "2026-03-31",
+  "scholarships": [
+    {
+      "title": "TAIST-Science Tokyo Master's Scholarship 2026 (Biomedical Engineering and AI)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2026-02-20",
+      "eligibility": "ผู้สำเร็จการศึกษาหรือกำลังศึกษาชั้นปีสุดท้ายระดับปริญญาตรีสาขา Engineering หรือ Science (รวมถึง Mechanical Engineering, Electrical Engineering, Electronics, Chemistry, Physics, Mathematics, Materials Science, Biology ฯลฯ) ต้องมี GPA ไม่ต่ำกว่า 2.75/4.00 หรือมีประสบการณ์ทำงาน/ผลงานวิจัยที่เกี่ยวข้อง และต้องมีคะแนนภาษาอังกฤษ (IELTS/TOEFL/TOEIC)",
+      "amount": "Full scholarship (ค่าเล่าเรียน + ค่าครองชีพ + เงินสนับสนุนการทำวิจัย)",
+      "link": "https://www.nstda.or.th/taist_tokyo_tech/",
+      "category": "education",
+      "field": "การแพทย์|Biomedical"
+    },
+    {
+      "title": "TAIST-Science Tokyo Master's Scholarship 2026 (Automotive and Advanced Transportation Engineering - A2TE)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2026-02-20",
+      "eligibility": "ผู้สำเร็จการศึกษาหรือกำลังศึกษาชั้นปีสุดท้ายระดับปริญญาตรีสาขา Engineering (Automotive Engineering, Mechanical Engineering, Electrical Engineering, Industrial Engineering, Manufacturing Engineering ฯลฯ) ต้องมี GPA ไม่ต่ำกว่า 2.75/4.00 และมีคะแนนภาษาอังกฤษ มหาวิทยาลัยผู้ร่วม: KMITL, KMUTT, CU",
+      "amount": "Full scholarship (ค่าเล่าเรียน + ค่าครองชีพ + เงินสนับสนุนการทำวิจัย)",
+      "link": "https://www.nstda.or.th/taist_tokyo_tech/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล"
+    },
+    {
+      "title": "TAIST-Science Tokyo Master's Scholarship 2026 (Sustainable Energy and Resources Engineering - SERE)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2026-02-20",
+      "eligibility": "ผู้สำเร็จการศึกษาหรือกำลังศึกษาชั้นปีสุดท้ายระดับปริญญาตรีสาขา Engineering หรือ Science ต้องมี GPA ไม่ต่ำกว่า 2.75/4.00 และมีคะแนนภาษาอังกฤษ มหาวิทยาลัยผู้ร่วม: SIIT, KU",
+      "amount": "Full scholarship (ค่าเล่าเรียน + ค่าครองชีพ + เงินสนับสนุนการทำวิจัย)",
+      "link": "https://www.nstda.or.th/taist_tokyo_tech/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล"
+    },
+    {
+      "title": "TGIST - โครงการทุนสถาบันบัณฑิตวิทยาศาสตร์และเทคโนโลยีไทย (ปริญญาโท)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2568",
+      "eligibility": "นักศึกษาระดับบัณฑิตศึกษาที่กำลังศึกษามาแล้วไม่เกิน 1 ปี หรือผ่านการคัดเลือกเข้าศึกษาระดับบัณฑิตศึกษาแล้ว ต้องมี GPA ป.ตรีไม่น้อยกว่า 2.75 ต้องทำวิทยานิพนธ์ร่วมกับอาจารย์มหาวิทยาลัยและนักวิจัย สวทช. ไม่รับทุนซ้ำซ้อน",
+      "amount": "10,000 บาท/เดือน (ค่าใช้จ่ายส่วนตัว) + ค่าเทอมตามจ่ายจริงไม่เกิน 80,000 บาท/ปี",
+      "link": "https://www.nstda.or.th/tgist/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Biomedical"
+    },
+    {
+      "title": "TGIST - โครงการทุนสถาบันบัณฑิตวิทยาศาสตร์และเทคโนโลยีไทย (ปริญญาเอก)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2568",
+      "eligibility": "นักศึกษาระดับบัณฑิตศึกษาที่กำลังศึกษามาแล้วไม่เกิน 1 ปี ต้องมี GPA ป.โทไม่น้อยกว่า 3.50 ต้องมีผลงานตีพิมพ์ในวารสารนานาชาติอย่างน้อย 1 บทความ หลังสำเร็จการศึกษา",
+      "amount": "12,000 บาท/เดือน (ค่าใช้จ่ายส่วนตัว) + ค่าเทอม",
+      "link": "https://www.nstda.or.th/tgist/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Biomedical"
+    },
+    {
+      "title": "ธัชวิทย์-TAS-NSTDA (ทุนปริญญาเอก) - หลักสูตร Nanofabrication and Nanorobotics และ Nanobiotechnology and Nanomedicine",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2568",
+      "eligibility": "ผู้สำเร็จการศึกษาระดับปริญญาโท สนใจงานวิจัยทางด้าน Nanofabrication, Nanorobotics, Nanobiotechnology, Nanomedicine ร่วมกับนักวิจัย สวทช. 28 คน เปิดสอนรายวิชา coursework 11 รายวิชา และมีหัวข้อวิทยานิพนธ์กว่า 50 หัวข้อ",
+      "amount": "Full scholarship (ค่าครองชีพ + ค่าธรรมเนียมการศึกษา + เงินสนับสนุนการทำวิจัย + เงินสนับสนุนไปทำวิจัยระยะสั้นที่ต่างประเทศ)",
+      "link": "https://www.nstda.or.th/home/mission/scholarship-page/tas/",
+      "category": "education",
+      "field": "Biomedical|การแพทย์"
+    },
+    {
+      "title": "ธัชวิทย์-TAS-NSTDA (ทุนปริญญาเอก) - หลักสูตร Advanced Materials for Future Industries",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2568",
+      "eligibility": "ผู้สำเร็จการศึกษาระดับปริญญาโท สนใจงานวิจัยทางด้านวัสดุขั้นสูงสำหรับอุตสาหกรรมแห่งอนาคต (Smart Manufacturing / i4.0) ร่วมกับนักวิจัย สวทช. หลักสูตรนานาชาติ รุ่นแรกเปิดปี 2565",
+      "amount": "Full scholarship (ค่าครองชีพ + ค่าธรรมเนียมการศึกษา + เงินสนับสนุนการทำวิจัย + เงินสนับสนุนไปทำวิจัยระยะสั้นที่ต่างประเทศ)",
+      "link": "https://www.nstda.or.th/home/mission/scholarship-page/tas/",
+      "category": "education",
+      "field": "Smart Manufacturing|i4.0"
+    },
+    {
+      "title": "ทุนรัฐบาลทางด้านวิทยาศาสตร์และเทคโนโลยี - ศึกษาวิชา ณ ต่างประเทศ ประจำปี 2568 (ทุนพัฒนาบุคลากรภาครัฐ ตปท.)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2025-09-15",
+      "eligibility": "เจ้าหน้าที่ของรัฐที่ได้รับการจัดสรรทุนจากกระทรวง/กรม/หน่วยงานของรัฐ ภายใต้กระทรวง อว. เพื่อศึกษาวิชา ณ ต่างประเทศ ประจำปี 2568 สาขาวิทยาศาสตร์และเทคโนโลยี",
+      "amount": "ตามรายละเอียดทุนพัฒนาบุคลากรภาครัฐ (ศึกษาต่างประเทศ)",
+      "link": "https://stscholar.nstda.or.th/scholarship2568/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Biomedical|Smart Manufacturing|i4.0"
+    },
+    {
+      "title": "ทุนรัฐบาลทางด้านวิทยาศาสตร์และเทคโนโลยี - ศึกษาวิชาภายในประเทศ ประจำปี 2568 (ทุนพัฒนาบุคลากรภาครัฐ นปท.)",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2025-09-15",
+      "eligibility": "เจ้าหน้าที่ของรัฐที่ได้รับการจัดสรรทุนจากกระทรวง/กรม/หน่วยงานของรัฐ ภายใต้กระทรวง อว. เพื่อศึกษาวิชาภายในประเทศ ประจำปี 2568 สาขาวิทยาศาสตร์และเทคโนโลยี",
+      "amount": "ตามรายละเอียดทุนพัฒนาบุคลากรภาครัฐ (ศึกษาในประเทศ)",
+      "link": "https://stscholar.nstda.or.th/scholarship2568/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Biomedical|Smart Manufacturing|i4.0"
+    },
+    {
+      "title": "JSTP - โครงการพัฒนาอัจฉริยภาพทางวิทยาศาสตร์และเทคโนโลยีสำหรับเด็กและเยาวชน",
+      "provider": "สถาบันนโยบายวิทยาศาสตร์และเทคโนโลยี (NSTDA)",
+      "deadline": "2568",
+      "eligibility": "เด็กและเยาวชนชั้นมัธยมศึกษาที่มีใจรักและสนใจงานวิจัยทางวิทยาศาสตร์และเทคโนโลยี",
+      "amount": "ตามรายละเอียดโครงการ",
+      "link": "https://www.nstda.or.th/home/mission/scholarship-page/scholarship-in-nstda/",
+      "category": "education",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Biomedical"
+    }
+  ]
+}

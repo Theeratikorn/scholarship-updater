@@ -1,0 +1,89 @@
+{
+  "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+  "source_urls": [
+    "https://www.nia.or.th/service/financial-support",
+    "https://nia.or.th/Mandatory-2026",
+    "https://nia.or.th/Thailand-Innovation-Hub-HealthTech",
+    "https://www.engineeringtoday.net/nia-spear-h-healthtech-accelerator-thailand/"
+  ],
+  "scraped_at": "2026-03-31",
+  "scholarships": [
+    {
+      "title": "SPEAR H : HealthTech Accelerator",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-03-31",
+      "eligibility": "สตาร์ตอัปและผู้ประกอบการด้าน Medical & HealthTech ที่มีความพร้อม (มีผลิตภัณฑ์หรือเทคโนโลยีด้านสุขภาพพร้อมทดสอบ) โดยร่วมกับ INT มหาวิทยาลัยมหิดล และโรงพยาบาลพระราม 9",
+      "amount": "Market Testing Fund + Fast Track สู่ทุนสนับสนุนจาก NIA สูงสุด 5,000,000 บาท",
+      "link": "https://www.engineeringtoday.net/nia-spear-h-healthtech-accelerator-thailand/",
+      "category": "research",
+      "field": "การแพทย์|Health Tech",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "ทุนนวัตกรรมแบบมุ่งเป้า (Thematic Innovation) - สาขาธุรกิจดิจิทัล ARI Tech (การแพทย์และสุขภาพ)",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-12-31",
+      "eligibility": "วิสาหกิจฐานนวัตกรรมที่มีผลิตภัณฑ์หรือบริการด้าน AI, Robotic, Immersive & IoT เพื่อการแพทย์และสุขภาพ สำหรับโรคหลอดเลือดสมอง กระดูกและข้อ มะเร็งเต้านม NCDs และการยกระดับบริการสถานพยาบาล",
+      "amount": "ทุนอุดหนุนสมทบไม่เกิน 75% ของมูลค่าโครงการ สูงสุด 5,000,000 บาท/โครงการ ระยะเวลาไม่เกิน 3 ปี",
+      "link": "https://nia.or.th/Mandatory-2026",
+      "category": "research",
+      "field": "การแพทย์|Health Tech|Biomedical",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "ทุนสนับสนุนที่ปรึกษาเพื่อพัฒนานวัตกรรม (MIND) - ARI Tech",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-12-31",
+      "eligibility": "วิสาหกิจฐานนวัตกรรมที่มีผลิตภัณฑ์หรือบริการจำหน่ายเชิงพาณิชย์แล้ว และต้องการเข้าถึงบริการที่ปรึกษาด้านการเติบโตทางธุรกิจ ในอุตสาหกรรม ARI Tech (รวมด้านการแพทย์และสุขภาพ)",
+      "amount": "ทุนอุดหนุนสมทบไม่เกิน 50% ของมูลค่าโครงการ สูงสุด 1,000,000 บาท/โครงการ ระยะเวลาไม่เกิน 1 ปี",
+      "link": "https://nia.or.th/service/financial-support",
+      "category": "training",
+      "field": "การแพทย์|Health Tech",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "ทุน Corporate Co-funding - สำหรับผู้ประกอบธุรกิจเทคโนโลยีและนวัตกรรมด้าน HealthTech",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-12-31",
+      "eligibility": "ผู้ประกอบการเทคโนโลยีและนวัตกรรมในระยะเริ่มต้นถึงระยะเติบโต (seed to growth stage) ที่ต้องการขยายตลาดด้าน HealthTech ร่วมกับแหล่งทุนภาครัฐและเอกชน",
+      "amount": "Recoverable Grant สูงสุด 5,000,000 บาท/โครงการ ระยะเวลาไม่เกิน 5 ปี",
+      "link": "https://nia.or.th/service/financial-support",
+      "category": "research",
+      "field": "การแพทย์|Health Tech|Biomedical",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "Thailand Innovation Hub: HealthTech / MedTech Sandbox & Incubation Program 2026",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA) ร่วมกับ สมาคมเฮลท์เทคไทย (THTA)",
+      "deadline": "2026-06-30",
+      "eligibility": "สตาร์ตอัปด้าน HealthTech / MedTech ที่ต้องการเข้าสู่ระบบ Sandbox ทดสอบนวัตกรรมในโรงพยาบาลและหน่วยบริการสุขภาพจริง รวมถึง AI การแพทย์ อุปกรณ์การแพทย์ ระบบตรวจวินิจฉัย ซอฟต์แวร์สุขภาพ และ Digital Health",
+      "amount": "ไม่ระบุวงเงินตายตัว (Incubation + Sandbox + การเชื่อมต่อพันธมิตร)",
+      "link": "https://nia.or.th/Thailand-Innovation-Hub-HealthTech",
+      "category": "research",
+      "field": "การแพทย์|Health Tech|Biomedical",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "ทุนโครงการนวัตกรรมแบบเปิด (Open Innovation) - Regional Innovation Platform",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-12-31",
+      "eligibility": "ผู้ประกอบการที่ต้องการพัฒนาและนำผลิตภัณฑ์ต้นแบบเชิงพาณิชย์ ทดสอบการใช้งานกับลูกค้าจริง ทดสอบกระบวนการผลิตเชิงอุตสาหกรรม และทดสอบตลาดจริง ในสาขา Manufacturing and Circular economy หรือ Service and Sharing Economy (รวมถึงบริการสุขภาพ)",
+      "amount": "ทุนให้เปล่า (Grant) ไม่เกิน 75% ของมูลค่าโครงการ สูงสุด 1,500,000 บาท/โครงการ ระยะเวลาไม่เกิน 1 ปี",
+      "link": "https://nia.or.th/service/financial-support",
+      "category": "research",
+      "field": "วิศวกรรมเครื่องกล|การแพทย์|Health Tech",
+      "scraped_at": "2026-03-31"
+    },
+    {
+      "title": "ทุนกลไกขยายธุรกิจนวัตกรรม (Market Expansion) - สาขา ARI Tech",
+      "provider": "สำนักงานนวัตกรรมแห่งชาติ (NIA)",
+      "deadline": "2026-12-31",
+      "eligibility": "วิสาหกิจฐานนวัตกรรมที่มีผลิตภัณฑ์หรือบริการด้าน AI, Robotic, Immersive & IoT พร้อมเข้าสู่ตลาดหรืออยู่ในตลาดแล้ว และต้องการขยายการสู่เชิงพาณิชย์หรือขยายการตลาด (รวมถึง HealthTech)",
+      "amount": "สนับสนุน 100% กับลูกค้าภาครัฐ หรือ 50% กับลูกค้าภาคเอกชน สูงสุด 2,000,000 บาท/โครงการ ระยะเวลาไม่เกิน 1 ปี",
+      "link": "https://nia.or.th/service/financial-support",
+      "category": "research",
+      "field": "การแพทย์|Health Tech|Biomedical",
+      "scraped_at": "2026-03-31"
+    }
+  ]
+}
